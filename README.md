@@ -4,5 +4,5 @@ Propósito: demostrar, aprender y construir proyectos prácticos (scripts, labs 
 
 ## Semana 01
 - Curso: Hixec - Introducción a la ciberseguridad
-- Fecha inicio: [pon la fecha]
-- Objetivos de la semana: Linux básico, anonimato, comandos esenciales.
+- Fecha inicio: 27 de Octubre del 2025
+- Objetivos de la semana: Fundamentos de la Ciberseguridad, Malware y Tipos, Vulnerabilidad Amenezas y Riesgo sus tipos de vulnerabilidad, Medidas de Proteccion y Herramientas Utiles
